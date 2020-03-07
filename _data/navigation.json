@@ -3,8 +3,8 @@
     {
       "name": "Webdesign",
       "page_names": [
-        "responsive_layout.md",
         "typography.md",
+        "responsive_layout.md",
         "pwa_share_api.md",
         "angular_webdesign.md"
       ],
