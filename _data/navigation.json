@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "name": "Neural Network Basics",
+      "page_names": [
+        "index.md",
+        "machine_learning_fields.md",
+        "variational_autoencoder.md",
+        "numpy_image_data.md",
+        "artificial_neuron.md",
+        "fully_conn_layer.md",
+        "softmax_derivative.md"
+      ]
+    },{
+      "name": "Webdesign",
+      "page_names": [
+        "responsive_layout.md",
+        "typography.md",
+        "pwa_share_api.md",
+        "angular_webdesign.md"
+      ],
+      "docs_names": [
+        "angular-todo-list"
+      ]
+    },{
+      "name": "My GitHub Repositories",
+      "repo_names": [
+        "numpy-neural-network",
+        "maideas-theme",
+        "python-basics",
+        "angular-todo-list",
+        "bookmarks-html",
+        "overview"
+      ]
+    }
+  ]
+}
