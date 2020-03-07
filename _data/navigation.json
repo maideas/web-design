@@ -3,10 +3,10 @@
     {
       "name": "Webdesign",
       "page_names": [
-        "web-design/responsive_layout.md",
-        "web-design/typography.md",
-        "web-design/pwa_share_api.md",
-        "web-design/angular_webdesign.md"
+        "responsive_layout.md",
+        "typography.md",
+        "pwa_share_api.md",
+        "angular_webdesign.md"
       ],
       "docs_names": [
         "angular-todo-list"
