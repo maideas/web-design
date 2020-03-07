@@ -13,4 +13,3 @@
 - [Goldene Regeln des Webdesign](https://www.diegutewebsite.de/web-design-goldene-regeln.html)
 - [Was ist gutes Webdesign](https://www.der-informationsdesigner.de/agentur-blog/webdesign/was-ist-gutes-webdesign)
 
-
