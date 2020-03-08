@@ -12,3 +12,4 @@ Medium (Tablet) Page Layout
 ![small page layout](/assets/images/small_layout.png)
 Small (Mobile) Page Layout
 
+
