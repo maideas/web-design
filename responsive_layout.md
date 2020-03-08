@@ -1,4 +1,5 @@
 ---
+tags: responsive webpage layout,desktop,tablet,mobile
 ---
 # Responsive Webpage Layout
 

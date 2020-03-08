@@ -1,4 +1,5 @@
 ---
+tags: webdesign,responsive,typography,responsive fonts,design rules
 ---
 # Typography, Responsive Fonts and good Webdesign
 
