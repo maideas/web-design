@@ -1,16 +1,16 @@
 {
   "menu": [{
     "item": [{
-      "name": "Hallo 1",
+      "name": "SubMenu 1",
       "content": [{
-        "name": "Inhalt 1.1",
+        "name": "Link 1.1",
         "href": "#1.1"
       },{
-        "name": "Inhalt 1.2",
+        "name": "Link 1.2",
         "href": "#1.2",
         "selected": true
       },{
-        "name": "Inhalt 1.3",
+        "name": "Link 1.3",
         "href": "#1.3"
       }]
     }]
