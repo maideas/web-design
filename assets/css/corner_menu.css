@@ -45,7 +45,8 @@ a {
     outline: none;
 
     text-decoration: none;
-    color: #456;
+    color: #444;
+    font-size: 1.4em;
 }
 
 #box {
@@ -54,11 +55,11 @@ a {
 
     /* #box center at window(0,0) */
     top: 0;
-    left: -150px;
-    height: 60px;
-    width: 300px;
+    left: -65px;
+    height: 65px;
+    width: 130px;
 
-    background: #def;
+    background: #ddd;
     transition: all 0.3s linear;
 }
 
@@ -69,7 +70,7 @@ a {
     margin: 0px auto;
 
     text-align: center;
-    color: #456;
+    color: #444;
 }
 
 ul {
