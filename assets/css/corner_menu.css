@@ -1,0 +1,84 @@
+---
+---
+
+@import "normalize";
+
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans|Noto+Serif");
+
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/*********************************************/
+/* CORNER MENU STYLES                          */
+/*********************************************/
+
+body {
+    background-color: #f8f8f8;
+    height: 2000px;
+}
+
+a {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: 1;  /* in front of #box */
+
+    display: inline-block;  /* to allow top/bottom padding of an inline element */
+    padding: 20px;
+    outline: none;
+
+    text-decoration: none;
+    color: #456;
+}
+
+#box {
+    position: fixed;
+    z-index: 0;
+
+    /* #box center at window(0,0) */
+    top: 0;
+    left: -150px;
+    height: 60px;
+    width: 300px;
+
+    background: #def;
+    transition: all 0.3s linear;
+}
+
+#menu {
+    position: relative;
+    top: 100px;
+    z-index: 1;
+    margin: 0px auto;
+
+    text-align: center;
+    color: #456;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#menu li {
+    display: none;
+    font-size: 1.5em;
+    line-height: 2em;
+}
+

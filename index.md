@@ -21,4 +21,5 @@ tags: webdesign,responsive,typography,responsive fonts,design rules
 - [Slide Menu](assets/slide_menu.html)
 - [Capture Ctrl+S](assets/capture_ctrl_s.html)
 - [Info Boxes](assets/info_boxes.html)
+- [Corner Menu](assets/corner_menu.html)
 
