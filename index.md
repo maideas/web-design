@@ -17,4 +17,5 @@ tags: webdesign,responsive,typography,responsive fonts,design rules
 ## Design Elements
 
 - [Colorized Note Boxes](assets/note_boxes.html)
+- [Bar Menu](assets/bar_menu.html)
 
