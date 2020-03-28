@@ -18,4 +18,5 @@ tags: webdesign,responsive,typography,responsive fonts,design rules
 
 - [Colorized Note Boxes](assets/note_boxes.html)
 - [Bar Menu](assets/bar_menu.html)
+- [Slide Menu](assets/slide_menu.html)
 

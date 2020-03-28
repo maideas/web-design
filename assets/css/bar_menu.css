@@ -1,28 +1,37 @@
+---
+---
 
-* {
-    padding: 0;
-    margin: 0;
-}
+@import "normalize";
+
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans|Noto+Serif");
 
 html {
-    -webkit-box-sizing: border-box;
-       -moz-box-sizing: border-box;
-            box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 *,
 *::before,
 *::after {
-    -webkit-box-sizing: inherit;
-       -moz-box-sizing: inherit;
-            box-sizing: inherit;
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
 }
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/*********************************************/
+/* BAR MENU STYLES                          */
+/*********************************************/
 
 body {
     background-color: #f8f8f8;
 }
-
-/* ================================================== */
 
 #content,
 #header {
@@ -31,6 +40,7 @@ body {
 }
 
 .menu {
+    padding: 0px;
     background-color: #e8e8e8;
 }
 
