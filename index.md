@@ -14,3 +14,7 @@ tags: webdesign,responsive,typography,responsive fonts,design rules
 - [Goldene Regeln des Webdesign](https://www.diegutewebsite.de/web-design-goldene-regeln.html)
 - [Was ist gutes Webdesign](https://www.der-informationsdesigner.de/agentur-blog/webdesign/was-ist-gutes-webdesign)
 
+## Design Elements
+
+- [Colorized Note Boxes](note_boxes.html)
+

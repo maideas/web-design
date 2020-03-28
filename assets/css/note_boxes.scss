@@ -1,0 +1,101 @@
+---
+---
+
+@import "normalize";
+
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans|Noto+Serif");
+
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/*********************************************/
+/* COLOR BOX STYLES                          */
+/*********************************************/
+
+.shadow-border {
+  border: 3px solid #f0f0f0;
+}
+
+.color-box {
+  color: #246;
+  margin: 15px 40px;
+
+  .content {
+    padding-right: 20px;
+    padding-left: 40px;
+  }
+}
+
+.color-box-icon {
+  position: relative;
+  float: left;
+  left: -23px;
+  top: 10px;
+  height: 40px;
+  width: 40px;
+  font-size: 24px;
+  color: #fff;
+
+  ::after {
+    position: absolute;
+    bottom: -10px;
+    left: 0px;
+    height: 0px;
+    width: 0px;
+    content: "";
+    border-top: 5px solid #aaa;
+    border-right: 10px solid #aaa;
+    border-bottom: 5px solid transparent;
+    border-left: 10px solid transparent;
+  }
+}
+
+.note-box {
+  background: #def;
+  .note-box-icon {
+    background: #5be;
+    i {
+      margin-top: 8px;
+      margin-left: 11px;
+    }
+  }
+}
+
+.hint-box {
+  background: #fec;
+  .hint-box-icon {
+    background: #fb2;
+    i {
+      margin-top: 8px;
+      margin-left: 12px;
+    }
+  }
+}
+
+.warn-box {
+  background: #fdd;
+  .warn-box-icon {
+    background: #f67;
+    i {
+      margin-top: 8px;
+      margin-left: 16px;
+    }
+  }
+}
