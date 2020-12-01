@@ -9,13 +9,12 @@
         "angular_webdesign.md"
       ],
       "docs_names": [
-        "angular-todo-list"
       ]
     },{
       "name": "My GitHub Repositories",
       "repo_names": [
-        "maideas-theme",
-        "angular-todo-list",
+        "maideas-clean-theme",
+        "maideas-blue-theme",
         "bookmarks-html",
         "overview"
       ]
