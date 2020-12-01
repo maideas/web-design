@@ -1,6 +1,5 @@
 title: MAIDEAS
 description: Web Design.
-baseurl: 'web-design/'
 google_site_verification_key: 1yU377-5avAh8CpOrU11zN6SuYYP0mq6g_wA7BP5NtM
 remote_theme: maideas/maideas-clean-theme
 markdown: kramdown
